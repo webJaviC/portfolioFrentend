@@ -1,2 +1,1 @@
-# portfolioFrentend
-repositorio para el frontend
+<h1>repo para frontend</h1>
